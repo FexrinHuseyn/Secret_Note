@@ -24,7 +24,8 @@ Creating new file
 Decrypt Screens
 
 
-![Screenshot 2024-07-29 213406](https://github.com/user-attachments/assets/6f6ac84d-af60-4a81-a585-40e9b29005fa)
+![Screenshot 2024-07-29 213343](https://github.com/user-attachments/assets/86e4e17e-d96c-4595-8126-9a7f8f6afbde)
+
 
 
 
