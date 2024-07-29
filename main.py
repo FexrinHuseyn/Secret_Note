@@ -15,6 +15,7 @@ photo.config(width=1500,height=300)
 image_label=Label(window,image=photo)
 image_label.place(x=0,y=-50)
 
+#Function
 def encode(key, clear):
     enc = []
     for i in range(len(clear)):
